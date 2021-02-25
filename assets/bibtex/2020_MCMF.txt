@@ -1,0 +1,6 @@
+@article{zeng2020multi,
+  title={Multi-mode Core Tensor Factorization based Low-Rankness and Its Applications to Tensor Completion},
+  author={Zeng, Haijin and Liu, Sheng and Ning, Jifeng},
+  journal={arXiv preprint arXiv:2012.01918},
+  year={2020}
+}
