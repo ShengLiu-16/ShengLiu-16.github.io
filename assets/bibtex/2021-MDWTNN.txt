@@ -1,0 +1,6 @@
+@article{liu2021hyperspectral,
+  title={Hyperspectral Image Restoration via Multi-mode and Double-weighted Tensor Nuclear Norm Minimization},
+  author={Liu, Sheng and Xie, Xiaozhen and Kong, Wenfeng},
+  journal={arXiv preprint arXiv:2101.07681},
+  year={2021}
+}
